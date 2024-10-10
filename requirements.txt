@@ -1,0 +1,10 @@
+langchain
+langchain-community
+pydantic
+pypdf
+sentence-transformers
+chromadb
+faiss-cpu
+langchain-huggingface
+huggingface_hub
+accelerate
